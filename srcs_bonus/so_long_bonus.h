@@ -6,7 +6,7 @@
 /*   By: ereginia <ereginia@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/05 17:23:18 by ereginia          #+#    #+#             */
-/*   Updated: 2022/01/11 14:55:20 by ereginia         ###   ########.fr       */
+/*   Updated: 2022/04/05 11:56:45 by ereginia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,8 @@
 # include <unistd.h>
 # include <fcntl.h>
 # include <mlx.h>
-# include "libft.h"
+
+# include "../libft/libft.h"
 
 # define PLAYER_L "pics/player_left.xpm"
 # define PLAYER_R "pics/player_right.xpm"
